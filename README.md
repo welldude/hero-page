@@ -1,3 +1,4 @@
+简介： 1.导航栏做了响应式处理，在尺寸较小的屏幕导航栏会隐藏改为侧边导航。 2.下方列表项使用 grid 布局，在不同尺寸屏幕有不同排列效果。
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
